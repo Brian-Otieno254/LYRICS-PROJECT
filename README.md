@@ -99,7 +99,7 @@ BM_Lyrics is a vast compilation of song lyrics, album details, and featured vide
 
 - **1 page with 5 videos**
 - **An audio folder with 5 audios**
-- 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,7 +136,7 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
-git clone 
+git clone https://github.com/Brian-Otieno254/LYRICS-PROJECT.git
 <!--
 Example commands:
 
@@ -149,7 +149,7 @@ Example commands:
 ### Install
 
 Install this project with:
-
+Not for installing
 <!--
 Example command:
 
@@ -162,7 +162,7 @@ Example command:
 ### Usage
 
 To run the project, execute the following command:
-
+Live Server 5
 <!--
 Example command:
 
