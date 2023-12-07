@@ -174,7 +174,7 @@ Example command:
 ### Run tests
 
 To run tests, run the following command:
-
+Live server 5
 <!--
 Example command:
 
@@ -244,7 +244,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project support us by following the page.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -254,7 +254,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank all the supporters  on my project. I know we will have a great music journey.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
