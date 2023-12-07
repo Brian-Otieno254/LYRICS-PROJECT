@@ -65,9 +65,7 @@ For more information on the importance of a professional README for your reposit
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [LYRICS_PAGE] <a name="about-project"></a>
-
-
-**[your_project__name]** is a...
+BM_Lyrics is a vast compilation of song lyrics, album details, and featured video clips for a seemingly endless array of artists —collaboratively assembled by our large music community and contributing editors.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -78,22 +76,19 @@ For more information on the importance of a professional README for your reposit
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li>HTML</li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li>LIVE SERVER 5</li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
 </details>
 
 <!-- Features -->
